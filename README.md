@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hola, soy Geronimo Valencia 
 
-<!--
-**7GERO-VAGO7/7GERO-VAGO7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática (8° semestre)  
+💻 Desarrollador en formación enfocado en .NET y Angular  
+📍 Colombia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy estudiante de ingeniería informática interesado en el desarrollo de aplicaciones web modernas.  
+Actualmente estoy fortaleciendo mis habilidades en desarrollo backend con .NET y frontend con Angular, construyendo proyectos prácticos para mejorar mis capacidades como desarrollador 
+
+---
+
+## Tecnologías y herramientas
+
+Backend
+- .NET
+- APIs REST
+- SQL
+
+Frontend
+- Angular
+- TypeScript
+- HTML
+- CSS
+
+Herramientas
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
+
+---
+
+## Proyectos
+
+Actualmente estoy desarrollando proyectos como:
+
+🔹 API REST con .NET  
+🔹 Aplicación web con Angular  
+🔹 Aplicación Full Stack .NET + Angular  
+🔹 Gestión de usuarios con autenticación
+
+---
+
+## Actualmente aprendiendo
+
+- Arquitectura de aplicaciones web
+- Desarrollo de APIs con .NET
+- Angular avanzado
+- Buenas prácticas de desarrollo
+
+---
+
+## Contacto
+
+- Email: geronimo.v.g07@gmail.com
