@@ -22,15 +22,12 @@ Backend
 
 Frontend
 - Angular
-- TypeScript
-- HTML
-- CSS
 
 Herramientas
 - Git
 - GitHub
-- Visual Studio
 - Visual Studio Code
+- jira atlassian
 
 ---
 
