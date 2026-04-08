@@ -1,4 +1,4 @@
-# Hola, soy Geronimo Valencia 
+# Hola, soy Geronimo Valencia Gonzales
 
 🎓 Estudiante de Ingeniería Informática (8° semestre)  
 💻 Desarrollador en formación enfocado en .NET y Angular  
