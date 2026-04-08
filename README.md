@@ -55,3 +55,4 @@ Actualmente estoy desarrollando proyectos como:
 ## Contacto
 
 - Email: geronimo.v.g07@gmail.com
+- telefono: 3123311538
