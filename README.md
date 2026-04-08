@@ -1,7 +1,8 @@
 # Hola, soy Geronimo Valencia Gonzales
 
 🎓 Estudiante de Ingeniería Informática (8° semestre)  
-💻 Desarrollador en formación enfocado en .NET y Angular  
+💻 Desarrollador en formación enfocado en .NET y Angular 
+💻lider de proyectos y capacitacion para el manejo de grupos de trabajo 
 📍 Colombia  
 
 ---
@@ -9,7 +10,7 @@
 ## Sobre mí
 
 Soy estudiante de ingeniería informática interesado en el desarrollo de aplicaciones web modernas.  
-Actualmente estoy fortaleciendo mis habilidades en desarrollo backend con .NET y frontend con Angular, construyendo proyectos prácticos para mejorar mis capacidades como desarrollador 
+Actualmente estoy fortaleciendo mis habilidades en desarrollo backend con .NET y frontend con Angular, construyendo proyectos prácticos para mejorar mis capacidades como desarrollador y como lider de procesos adoptando herramientas y metodologias (scrum - lean - kamban)para facilitar el trabajo en grupo y seguir procesos lineales con entregables de valor en cada proyecto  
 
 ---
 
